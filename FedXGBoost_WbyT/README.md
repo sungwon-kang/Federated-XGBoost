@@ -83,7 +83,7 @@ Arguments:
   - Default: 'GinM'
   - Options:
     - GinO: 한 클라이언트에서 트리 구조를 생성.
-    - GinM: 여러 클라이언트를 순회하면서 크리 구조를 생성.
+    - GinM: 여러 클라이언트를 순회하면서 트리 구조를 생성.
 
 - `--levelUp`: 클라이언트 당 트리의 추가 높이
   - `--method`에서 `--GinM`을 설정할 경우 적용됨.
