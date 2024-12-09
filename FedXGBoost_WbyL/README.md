@@ -1,4 +1,4 @@
-# 다중 클래스 분류에 효과적인 연합 XGBoost
+# Effective Federated XGBoost Learning Method for Multi-Class Classification in Non-IID Environments
 
 이 레포지토리는 Non-IID 데이터 분포에서 다중 클래스 분류에 효과적인 연합 XGBoost의 구현 코드를 저장합니다.
 구현된 XGBoost는 기존의 스칼라 가중치로 설계된 트리가 아닌 벡터 형태의 가중치를 저장하는 XGBoost[1] 입니다.
