@@ -20,4 +20,5 @@
 
 [1] N. Ponomareva et al., “Compact Multi-Class Boosted Trees,” in international Conference on Big Data, 2017.
 paper: https://arxiv.org/abs/1710.11547.
+
 [2] S. Kang, C. Park, "Effective Federated XGBoost Learning Method for Multi-Class Classification in Non-IID Environments", Under review, 2024.
