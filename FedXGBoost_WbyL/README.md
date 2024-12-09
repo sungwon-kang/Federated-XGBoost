@@ -53,37 +53,7 @@ Arguments:
     - letter: 2
 
 ## XGBoost 학습 설정변수
-- `--trees`: XGBoost 트리의 수 
-  - Default: 100
-  
-- `--depth`: 트리의 최대 깊이. 
-  - Default: 10
-
-- `--count`: 이진 분할에 필요한 최소 데이터 수. 
-  - Default: 2
-
-- `--fraction`: 트리를 생성할 때 사용하는 데이터 샘플의 비율
-  - Default: 1.0
-
-- `--lr`: 학습률(learning rate)
-  - Default: 0.3
-  
-- `--hes`: Vector-valued XGBoost에서 헤시안 행렬 계산 방법 선택
-  - Default: True
-  - Options:
-    - False: Full Hessian matrix (미구현)
-    - True: Diagonal Hessian matrix
-    
-- `--lamb`: 규제 매개변수
-  - Default: 1.0
-
-## 연합 XGBoost 방식 설정변수
-
-- `--method`: 연합학습 환경에서 트리 학습 방법을 선택
-  - Default: 'GinM'
-  - Options:
-    - GinO: 한 클라이언트에서 트리 구조를 생성.
-    - GinM: 여러 클라이언트를 순회하면서 크리 구조를 생성.
+트리 구조를 생성.
 
 - `--levelUp`: 클라이언트 당 트리의 추가 높이
   - `--method`에서 `--GinM`을 설정할 경우 적용됨.
