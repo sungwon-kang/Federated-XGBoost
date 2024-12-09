@@ -18,7 +18,6 @@
 
 이 주제로 작성된 논문[2]은 현재 심사중에 있습니다.
 
-[1] N. Ponomareva et al., “Compact Multi-Class Boosted Trees,” in international Conference on Big Data, 2017.
-paper: https://arxiv.org/abs/1710.11547.
+[1] N. Ponomareva et al., “Compact Multi-Class Boosted Trees,” in international Conference on Big Data, 2017. (https://arxiv.org/abs/1710.11547)
 
 [2] S. Kang, C. Park, "Effective Federated XGBoost Learning Method for Multi-Class Classification in Non-IID Environments", Under review, 2024.
